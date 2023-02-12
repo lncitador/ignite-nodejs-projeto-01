@@ -1,0 +1,14 @@
+{
+  "name": "challenge-ignite-nodejs-01-fundamentos-nodejs",
+  "version": "0.0.1",
+  "description": "Desafio do módulo Fundamentos do Node.js",
+  "main": "src/index.js",
+  "repository": "https://github.com/lncitador/challenge-ignite-nodejs-01-fundamentos-nodejs",
+  "author": "Walaff Fernandes",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  }
+}
